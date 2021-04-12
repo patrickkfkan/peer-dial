@@ -21,7 +21,7 @@
 		"cors": "^2.8.5",
 		"ejs": "2.7.1",
 		"gate": "^0.3.0",
-		"peer-ssdp": "0.0.5",
+		"peer-ssdp": "github:patrickkfkan/peer-ssdp",
 		"uuid": "^3.3.3",
 		"xml2js": "0.4.21"
 	},
