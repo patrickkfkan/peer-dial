@@ -1,5 +1,8 @@
 Forked from https://github.com/fraunhoferfokus/peer-dial with the following changes:
 
+v0.1.1:
+- Fix peer-ssdp dependency
+
 v0.1.0:
 - Add `bindToInterfaces` and `bindToAddresses` options.
 - Update dependencies that were causing NPM audit warnings.

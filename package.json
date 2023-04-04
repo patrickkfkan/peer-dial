@@ -1,7 +1,7 @@
 {
 	"name": "@patrickkfkan/peer-dial",
 	"description": "Nodejs implementation of the Discovery and Launch Protocol DIAL",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"author": {
 		"name": "Louay Bassbouss (original author); Forked version by Patrick Kan <patrickkfkan@gmail.com> (https://github.com/patrickkfkan).",
 		"email": "louay.bassbouss@fokus.fraunhofer.de"
