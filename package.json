@@ -1,9 +1,9 @@
 {
-	"name": "peer-dial",
+	"name": "@patrickkfkan/peer-dial",
 	"description": "Nodejs implementation of the Discovery and Launch Protocol DIAL",
-	"version": "0.0.9",
+	"version": "0.1.0",
 	"author": {
-		"name": "Louay Bassbouss",
+		"name": "Louay Bassbouss (original author); Forked version by Patrick Kan <patrickkfkan@gmail.com> (https://github.com/patrickkfkan).",
 		"email": "louay.bassbouss@fokus.fraunhofer.de"
 	},
 	"keywords": [
@@ -29,5 +29,5 @@
 		"express": "^4.18.2",
 		"open": "6.4.0"
 	},
-	"repository": "https://github.com/fraunhoferfokus/peer-dial.git"
+	"repository": "https://github.com/patrickkfkan/peer-dial.git"
 }
