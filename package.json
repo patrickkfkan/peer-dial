@@ -19,14 +19,14 @@
 	"main": "index",
 	"dependencies": {
 		"cors": "^2.8.5",
-		"ejs": "2.7.1",
+		"ejs": "^3.1.9",
 		"gate": "^0.3.0",
-		"peer-ssdp": "git+https://github.com/patrickkfkan/peer-ssdp",
+		"@patrickkfkan/peer-ssdp": "^0.1.0",
 		"uuid": "^3.3.3",
 		"xml2js": "0.4.21"
 	},
 	"devDependencies": {
-		"express": "4.17.1",
+		"express": "^4.18.2",
 		"open": "6.4.0"
 	},
 	"repository": "https://github.com/fraunhoferfokus/peer-dial.git"
