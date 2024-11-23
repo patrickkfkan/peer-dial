@@ -1,5 +1,8 @@
 Forked from https://github.com/fraunhoferfokus/peer-dial with the following changes:
 
+v0.1.3:
+- Update dependencies
+
 v0.1.1:
 - Fix peer-ssdp dependency
 
